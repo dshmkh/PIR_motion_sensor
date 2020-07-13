@@ -1,0 +1,21 @@
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\430\config\debugger\msp430f2272.ddf" 
+
+"--iv_base" 
+
+"0xFFE0" 
+
+"--odd_word_check" 
+
+"-d" 
+
+"sim" 
+
+"--derivativeSim" 
+
+"MSP430F2272_G2744" 
+
+
+
+
